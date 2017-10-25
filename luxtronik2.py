@@ -1,8 +1,10 @@
 #!/usr/bin/python
 # Script to read values from Luxtronik 2.0 Heat Pump systems (Alpha Innotec and other vendors)
 # Temperature values are displayed in degrees Celsius
-# by Stefan Prokop
 #
+# by Stefan Prokop
+# Version 1.0
+# 
 # Set IP of your Luxtronik 2.0 device below
 
 import sys
