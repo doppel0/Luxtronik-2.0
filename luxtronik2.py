@@ -5,7 +5,7 @@
 # by Stefan Prokop
 # Version 1.0
 # 
-# Set IP of your Luxtronik 2.0 device below
+# Set the IP of your Luxtronik 2.0 device below
 
 import sys
 if len(sys.argv) > 1:
