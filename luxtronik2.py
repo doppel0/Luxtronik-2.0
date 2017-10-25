@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # Script to read values from Luxtronik 2.0 Heat Pump systems (Alpha Innotec and other vendors)
+# by Stefan Prokop
+#
 # Set IP of your Luxtronik device below
 
 import sys
@@ -14,7 +16,7 @@ import datetime, time
 
 #####################
 # Luxtronik 2.0 IP
-hostHeatpump = '10.1.18.112'
+hostHeatpump = '127.0.0.1'
 # Luxtronik 2.0 port (standard 8888)
 portHeatpump = 8888
 #####################
